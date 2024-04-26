@@ -98,18 +98,40 @@ and click on the connect icon
 
 
 
-### output video and screen shots of pick and place 
+## Output video and screen shots of pick and place: 
 
+### Program:
 
+![324381928-eb6b277f-1db6-41d3-babb-1ff0c81b7d61](https://github.com/Hari-Prasath-P-08/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139455593/dd63929e-0c56-4a3a-a02d-e349d935b430)
 
+![324381981-15a84c71-6a28-410b-a63e-6fa035502ac8](https://github.com/Hari-Prasath-P-08/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139455593/0012fba9-6f76-4bf7-a13b-956c04198177)
 
+![324382025-35def62f-8996-49d8-9deb-c506d906c693](https://github.com/Hari-Prasath-P-08/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139455593/f89d45e4-8c04-4a29-a20b-87b522d866bc)
 
+![324382046-b6d6df07-986c-47bf-86ee-965692fde443](https://github.com/Hari-Prasath-P-08/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139455593/c6ae86c8-0d4e-461b-8d52-0499eb3f7b92)
 
+### Robot Action:
+
+![324380496-45f35e03-7e01-4aba-9825-7cb8b5210089](https://github.com/Hari-Prasath-P-08/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139455593/6a71bb58-c298-49eb-87f9-4b6b8d348e21)
+
+![324380565-19828a3c-4fa5-4abe-a0f8-d307037d22e4](https://github.com/Hari-Prasath-P-08/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139455593/fc3a0ffd-e89d-402a-9cd0-22c0da8e7220)
+
+![324380623-fc4c8815-5f4f-4bbf-8ec4-7b54714743ed](https://github.com/Hari-Prasath-P-08/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139455593/41a0d709-d625-4160-a1d5-30883ca6073b)
+
+![324380668-6cc056f1-c78a-4ac2-84a2-aaa432a414fa](https://github.com/Hari-Prasath-P-08/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139455593/3a26a6ff-8a2b-435d-99d9-c59c4d6655ac)
+
+![324380830-9328a0af-e4ca-416c-ba4e-549beaf33216](https://github.com/Hari-Prasath-P-08/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139455593/427b0f88-b7a2-4342-bfb5-15970b96e14b)
+
+![324380881-d98bf945-cdfd-4703-913f-10d40a4c09ec](https://github.com/Hari-Prasath-P-08/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139455593/e10f96e0-5d82-4646-acb7-3f03551a1937)
+
+![324380928-bf2da26f-2093-45f0-b42d-0f18373f6960](https://github.com/Hari-Prasath-P-08/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139455593/25f26b01-411b-4351-967a-a36484ee2b9d)
+
+![324380964-60583fe2-949a-4192-ba44-5d7d369447fd](https://github.com/Hari-Prasath-P-08/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139455593/54d5a84a-9462-42cc-b2c7-4d7e763aac5f)
+
+### Video:
+
+https://github.com/Hari-Prasath-P-08/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/139455593/a5d28c69-7d85-4ca4-bec9-f79afe3b0b87
 
 ### Results: 
 
-
-
-
-
-
+Thus, the experiment to pick and place a regular shape using two finger gripper on the conveyor belt is sucessfully completed.

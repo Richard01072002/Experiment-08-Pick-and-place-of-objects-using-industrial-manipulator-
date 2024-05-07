@@ -1,5 +1,8 @@
 # Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-
-
+###  DATE: 22-04-2024
+###  NAME: RICHARDSON A
+###  ROLL NO : 212222233005
+###  DEPARTMENT: AI&DS
 ### Aim :
       To pick and place a regular shape using two finger gripper on the conveyor belt 
 ### Equipment Required: 
